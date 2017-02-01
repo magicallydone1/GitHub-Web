@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="stylesheet" type="text/css" href="style.css">
+		</head>
+			<title>My Web Pressence</title>
+			<body>
+				<header id="top" class="main-header">
+					<span>A look at who I am</span>
+					<h1 align="center">My Web Pressence</h1>
+					</header>
+				<h2>Charles (CHAZ) Kovach</h2>
+            <img src="images/chaz1.jpg" alt="chaz1" style="width:457px;height:477px;">
+              <div class="primary-content">		
+			    <p align="center">
+					Hello, and welcome to my web pressence.
+				    I am currently a student in Cleveland Codes Software Development.
+				</p>
+				<p>
+					I was born and raised in Cleveland, Ohio. I received my formal education through the Cleveland Public School 
+				   System. In junior high school, I was very fortunate to be able to participate in an experimental education 
+				   program which allowed our class to take advanced courses, normally reserved for high school and/or first year 
+				   college students. The course's focused on math and science predominately including calculus and biology. A new 
+				   addition was added to the school which housed the Biology class and lab. This was especially exciting for me 
+				   since math and science were my two favorite subjects. In my first year of high school, I decided 
+				   I wanted to play the bass guitar, so I worked part time after school and purchased my first Hagstrom 8 string bass.
+				   I played locally in several bands through out high school, and our band received second place in a battle of the bands
+				   sponsored by WMMS radio station.
+				   The highlight of my musical career came when our band played for  mayoral candidate Kiley Cronin
+				   outside his headquarters on Euclid Ave. Channel 8 tv filmed us briefly and later included a shot of our band playing
+				   in a comercial called "Channel 8, We Live Here and We Like It", my 15 seconds of fame. I continued with my academic path
+				   until my senior year, when an automotive repair facility was added to the school. My love for cars and racing led me 
+				   to attend this class and upon graduating high school, I enrolled in an Automotive Technician course at the Denver 
+				   Automotive and Diesel College. After graduation, I worked for a Cheverolet dealership where I achieved my 
+				   Mr. Goodwrench certification. I purchased a 1969 Rally Sport Z-28 camaro, and rebuilt the stock 302CI into a radical 
+				   street racer. After 17 years in Colorado, I returned to Cleveland, Ohio.
+				   </p>
+				  </div>
+				  <a href="pageTwo.html">Link to page 2</a>
+			</body>
+		<footer id="main-footer">
+			<p>Posted by Charles (Chaz) Kovach</p>
+			<p>Contact Information: <a href="magicallydone1@gmail.com">
+			magicallydone1@gmail.com</a></p>
+		</footer>
+	</html>
