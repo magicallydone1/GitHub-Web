@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Exercise</h1>
+
+<p>JavaScript Date and Time</p>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<p id="Today is: Friday"></p>
+<p id="Current Time is: 1 PM :15:51"></p>
+
+<script>
+function myFunction() {
+    document.getElementById("Today is: Friday").innerHTML = "Today is: Friday.";
+    document.getElementById("Current Time is: 1 PM :15:51").innerHTML = "Current Time is: 1 PM :15:51";
+}
+</script>
+
+</body>
+</html>

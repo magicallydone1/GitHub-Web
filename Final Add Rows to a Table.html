@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+
+<h1>JavaScript Excerises</h1>
+
+<p>Click the button to add a new row at the first position of the table and then add cells and content.</p>
+
+
+
+ <table id="myTable" border="1">
+ 
+        <tr>
+            <td>Row1 cell1</td>
+            <td>Row1 cell2</td>
+        </tr>
+        <tr>
+            <td>Row2 cell1</td>
+            <td>Row2 cell2</td>
+        </tr>
+        <tr>
+            <td>Row3 cell1</td>
+            <td>Row3 cell2</td>
+        </tr>
+	</table>
+    <button type="button" onclick="myFunction()">Add Row!</button>
+ <script>
+function myFunction() {
+ 
+   var table = document.getElementById("myTable");
+   var row = table.insertRow(0);
+   var cell1 = row.insertCell(0);
+   var cell2 = row.insertCell(1);
+   cell1.innerHTML = "Row0 CELL1";
+   cell2.innerHTML = "Row0 CELL2"; 
+
+	}
+	</script>
+</body>
+</html>
